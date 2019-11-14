@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_fruits"
+        android:title="@string/menu_fruits"
+        android:icon="@drawable/ic_fruits"
+        />
+    <item
+        android:id="@+id/menu_veggies"
+        android:title="@string/menu_veggies"
+        android:icon="@drawable/ic_veggies"
+        />
+
+    <item
+        android:id="@+id/menu_drinks"
+        android:title="@string/menu_drinks"
+        android:icon="@drawable/ic_drinks" />
+</menu>

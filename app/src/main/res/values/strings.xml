@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstaDemoApplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_fruits">Fruits</string>
+    <string name="menu_veggies">Veggies</string>
+    <string name="menu_drinks">Drinks</string>
+</resources>
